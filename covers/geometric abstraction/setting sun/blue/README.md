@@ -1,4 +1,4 @@
-***Setting Sun (yellow)***
+***Setting Sun (blue)***
 
 * **Author**: [Matuscz](https://github.com/matuscz)
 * **Created**: 2026
