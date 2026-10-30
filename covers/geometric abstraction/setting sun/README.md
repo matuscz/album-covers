@@ -1,11 +1,6 @@
 
+**Setting sun** is available in three color variants:
 
-**Setting sun** is avaliable in three color varaints:
-* [Yellow](yellow/README.md)
-  <img src="yellow/yellow.svg" width="300">
-  
-* [Grey](grey/README.md)
-  <img src="grey/grey.svg" width="300">
-
-* [Blue](blue/README.md)
-  <img src="blue/blue.svg" width="300">
+| [Yellow](yellow/README.md) | [Grey](grey/README.md) | [Blue](blue/README.md) |
+| :---: | :---: | :---: |
+| <img src="yellow/yellow.svg" width="220" alt="Yellow variant"> | <img src="grey/grey.svg" width="220" alt="Grey variant"> | <img src="blue/blue.svg" width="220" alt="Blue variant"> |
