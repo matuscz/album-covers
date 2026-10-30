@@ -1,6 +1,6 @@
 | ***Setting Sun (grey)***
 | :---: 
-| <img src="grey" width="220" alt="grey variant">
+| <img src="grey.svg" width="220" alt="grey variant">
 | **Author**: [Matuscz](https://github.com/matuscz)
 | **Created**: 2026
 | **Photos**: No
