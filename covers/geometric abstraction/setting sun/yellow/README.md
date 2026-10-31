@@ -8,7 +8,8 @@
 
 <br>
 
-| ### Download | |
+### Download
+| Type | Link |
 | :---: | :---: |
 | **SVG** | [here](yellow.svg) |
 | **PNG** | [here](yellow.png) |
