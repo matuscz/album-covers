@@ -5,8 +5,12 @@
 | **Created**: 2026
 | **Photos**: No
 | **Font**: [Funnel Display](https://fonts.google.com/specimen/Funnel+Display) (Google fonts)
-| -
-| ***Download***:
-| **SVG**: [here](black.svg)
-| **PNG**: [here](black.png)
 
+<br>
+
+### Download
+| Type | Link |
+| :---: | :---: |
+| **SVG** | [here](black.svg) |
+| **PNG** | [here](black.png) |
+| **SKETCH** | [here](black.sketch) |
