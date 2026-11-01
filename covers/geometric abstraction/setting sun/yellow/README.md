@@ -1,4 +1,4 @@
-wwwwwww| ***Setting Sun (yellow)*** |
+| ***Setting Sun (yellow)*** |
 | :---: |
 | <img src="yellow.svg" width="220" alt="Yellow variant"> |
 | **Author**: [Matuscz](https://github.com/matuscz) |
