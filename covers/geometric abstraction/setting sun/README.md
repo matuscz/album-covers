@@ -1,5 +1,5 @@
 
-**Setting sun** is available in three color variants:
+**Setting sun** is available in four color variants:
 
 | [Yellow](yellow/README.md) | [Grey](grey/README.md) | [Blue](blue/README.md) | [Neon](neon/README.md) | 
 | :---: | :---: | :---: | :---: |
