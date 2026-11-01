@@ -9,8 +9,9 @@
 <br>
 
 ### Download
-| Type | Link |
-| :---: | :---: |
-| **SVG** | [here](blue.svg) |
-| **PNG** | [here](blue.png) |
-| **SKETCH** | [here](blue.sketch) |
+| Type | With placeholder | Without placeholder |
+| :---: | :---: | :---: |
+| **PNG** | [with placeholder](blue.png) | [without placeholder](blue%20(without).png) | 
+| **SVG** | [with placeholder](blue.svg) | [without placeholder](blue%20(without).svg) | 
+| **SKETCH** | [with placeholder](blue.sketch) | [without placeholder](blue%20(without).sketch) | 
+
