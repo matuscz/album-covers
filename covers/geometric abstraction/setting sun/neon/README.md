@@ -9,8 +9,8 @@
 <br>
 
 ### Download
-| Type | Link |
-| :---: | :---: |
-| **SVG** | [here](neon.svg) |
-| **PNG** | [here](neon.png) |
-| **SKETCH** | [here](neon.sketch) |
+| Type | With placeholder | Without placeholder |
+| :---: | :---: | :---: |
+| **PNG** | [with placeholder](neon.png) | [without placeholder](neon%20(without).png) | 
+| **SVG** | [with placeholder](neon.svg) | [without placeholder](neon%20(without).svg) | 
+| **SKETCH** | [with placeholder](neon.sketch) | [without placeholder](neon%20(without).sketch) | 
