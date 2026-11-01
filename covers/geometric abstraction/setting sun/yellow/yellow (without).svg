@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="3000" height="3000" viewBox="0 0 3000 3000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <rect width="3000" height="3000" fill="#FFFFFF" fill-rule="evenodd" />
+    <rect width="3000" height="502" fill="#DBA830" fill-rule="evenodd" />
+    <rect width="3000" height="500" fill="#DB8B30" fill-rule="evenodd" transform="translate(0 502)" />
+    <rect width="3000" height="500" fill="#DB7830" fill-rule="evenodd" transform="translate(0 1001)" />
+    <rect width="3000" height="500" fill="#DB3630" fill-rule="evenodd" transform="translate(0 2500)" />
+    <path d="M0 748C0 334.891 371.828 0 830.5 0C1289.17 0 1661 334.891 1661 748C1661 1161.11 1289.17 1496 830.5 1496C371.828 1496 0 1161.11 0 748Z" fill="#DBA830" fill-rule="evenodd" transform="translate(664 747)" />
+    <rect width="3000" height="500" fill="#DB5030" fill-rule="evenodd" transform="translate(0 2001)" />
+    <rect width="3000" height="500" fill="#DB6130" fill-rule="evenodd" transform="translate(0 1501)" />
+  </g>
+</svg>
