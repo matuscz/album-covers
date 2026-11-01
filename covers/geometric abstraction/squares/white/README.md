@@ -8,9 +8,11 @@
 
 <br>
 
+
 ### Download
-| Type | Link |
-| :---: | :---: |
-| **SVG** | [here](white.svg) |
-| **PNG** | [here](white.png) |
-| **SKETCH** | [here](white.sketch) |
+| Type | With placeholder | Without placeholder |
+| :---: | :---: | :---: |
+| **PNG** | [with placeholder](white.png) | [without placeholder](white%20(without).png) | 
+| **SVG** | [with placeholder](white.svg) | [without placeholder](white%20(without).svg) | 
+| **SKETCH** | [with placeholder](white.sketch) | [without placeholder](white%20(without).sketch) | 
+
