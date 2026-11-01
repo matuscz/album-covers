@@ -1,4 +1,4 @@
-| ***Setting Sun (yellow)*** |
+wwwwwww| ***Setting Sun (yellow)*** |
 | :---: |
 | <img src="yellow.svg" width="220" alt="Yellow variant"> |
 | **Author**: [Matuscz](https://github.com/matuscz) |
@@ -9,8 +9,8 @@
 <br>
 
 ### Download
-| Type | Link |
-| :---: | :---: |
-| **SVG** | [here](yellow.svg) |
-| **PNG** | [here](yellow.png) |
-| **SKETCH** | [here](yellow.sketch) |
+| Type | With placeholder | Without placeholder |
+| :---: | :---: | :---: |
+| **PNG** | [with placeholder](yellow.png) | [without placeholder](yellow%20(without).png) | 
+| **SVG** | [with placeholder](yellow.svg) | [without placeholder](yellow%20(without).svg) | 
+| **SKETCH** | [with placeholder](yellow.sketch) | [without placeholder](yellow%20(without).sketch) | 
