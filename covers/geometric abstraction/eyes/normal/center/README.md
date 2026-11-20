@@ -1,6 +1,6 @@
 | ***Normal eyes (center)*** |
 | :---: |
-| <img src="left.svg" width="220" alt="left variant"> |
+| <img src="right.svg" width="220" alt="left variant"> |
 | **Author**: [Matuscz](https://github.com/matuscz) |
 | **Created**: 2026 |
 | **Photos**: No |
