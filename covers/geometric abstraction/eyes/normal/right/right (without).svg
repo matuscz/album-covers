@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="3000" height="3000" viewBox="0 0 3000 3000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask id="mask_1" x="-373" y="595" width="3000" height="3000">
+      <rect width="3000" height="3000" fill="#141414" fill-rule="evenodd" />
+    </mask>
+    <mask id="mask_2" x="-93" y="1617" width="1100" height="1000">
+      <path d="M0 500C0 223.858 246.243 0 550 0C853.757 0 1100 223.858 1100 500C1100 776.142 853.757 1000 550 1000C246.243 1000 0 776.142 0 500Z" fill="#FFFFFF" fill-rule="evenodd" />
+    </mask>
+    <mask id="mask_3" x="1231" y="1617" width="1100" height="1000">
+      <path d="M0 500C0 223.858 246.243 0 550 0C853.757 0 1100 223.858 1100 500C1100 776.142 853.757 1000 550 1000C246.243 1000 0 776.142 0 500Z" fill="#FFFFFF" fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g mask="url(#mask_1)">
+    <g transform="translate(280 1022)" mask="url(#mask_2)">
+      <path d="M0 200C0 89.543 89.543 0 200 0C310.457 0 400 89.543 400 200C400 310.457 310.457 400 200 400C89.543 400 0 310.457 0 200Z" fill="#0A0A0A" fill-rule="evenodd" transform="translate(550 440)" />
+    </g>
+    <g transform="translate(1604 1022)" mask="url(#mask_3)">
+      <path d="M0 200C0 89.543 89.543 0 200 0C310.457 0 400 89.543 400 200C400 310.457 310.457 400 200 400C89.543 400 0 310.457 0 200Z" fill="#0A0A0A" fill-rule="evenodd" transform="translate(550 440)" />
+    </g>
+  </g>
+</svg>
